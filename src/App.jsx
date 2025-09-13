@@ -1,14 +1,13 @@
 
 import './App.css'
-import Tailwind from './assets/tailwind'
-
+import CharactersApi from './assets/CharactersApi'
 function App() {
   
 
   return (
     <div>
       
-    <Tailwind/>
+    <CharactersApi/>
 
     </div>
   )
